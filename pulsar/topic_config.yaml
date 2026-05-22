@@ -1,0 +1,13 @@
+topics:
+  raw-repositories:
+    retention_time_in_minutes: 1440
+    retention_size_in_megabytes: 1024
+  language-stats:
+    retention_time_in_minutes: 1440
+    retention_size_in_megabytes: 512
+  unit-test-analysis:
+    retention_time_in_minutes: 1440
+    retention_size_in_megabytes: 512
+  ci-devops-analysis:
+    retention_time_in_minutes: 1440
+    retention_size_in_megabytes: 512

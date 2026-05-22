@@ -1,0 +1,8 @@
+# Environments
+.env
+__pycache__/
+*.pyc
+
+# Ignore generated results data, but keep the folder
+results/*.json
+results/*.png
